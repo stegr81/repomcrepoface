@@ -1,2 +1,2 @@
 # repomcrepoface
-A collection of example notebooks for future reference.
+A collection of random notebooks and documents for reference.
