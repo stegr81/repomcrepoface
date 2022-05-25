@@ -1,0 +1,7 @@
+pytest
+sqlite3
+faker
+sklearn
+geopy
+shapely
+plotly
